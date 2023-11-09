@@ -66,7 +66,7 @@ function Login() {
 
                                     <div className='text-center'>
                                         <h4 style={{fontWeight:"bold"}}>Login credentials</h4>
-                                        <h6>username - krishna</h6>
+                                        <h6>username - krishna@gmail.com</h6>
                                         <h6>password - 123456</h6>
                                     </div>
                                 </div>
