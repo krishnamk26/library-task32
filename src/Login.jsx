@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 
 function Login() {
     let navigate = useNavigate();
-    let username = "krishna";
+    let username = "krishna@gmail.com";
     let pass = "123456";
     let login = () => {
         if (username == "abc" && pass == "123") {
