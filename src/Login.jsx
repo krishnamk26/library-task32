@@ -6,7 +6,7 @@ function Login() {
     let username = "krishna@gmail.com";
     let pass = "123456";
     let login = () => {
-        if (username == "abc" && pass == "123") {
+        if (username == "krishna@gmail.com" && pass == "123456") {
             navigate("/portal/dashboard");
         } else {
             alert("Worng data");
